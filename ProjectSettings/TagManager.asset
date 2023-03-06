@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Cube Set
+  - Sphere Set
+  - Capsule Set
+  - Cylinder Set
+  - Plane Set
+  - Quad Set
   layers:
   - Default
   - TransparentFX
