@@ -38,7 +38,7 @@
 
 # Unity Binary Assets
 *.cubemap lfs
-*.unitypackage lfs
+#*.unitypackage lfs
 # Note: Unity terrain assets must have "-Terrain" suffix.
 *-[Tt]errain.asset -unityyaml lfs
 # Note: Unity navmesh assets must have "-NavMesh" suffix.
