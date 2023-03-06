@@ -341,7 +341,7 @@ GameObject:
   - component: {fileID: 225835462}
   - component: {fileID: 225835461}
   m_Layer: 0
-  m_Name: Spot Light (2)
+  m_Name: Capsule Spot Light (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -520,7 +520,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 22
+  m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &302437006
 GameObject:
@@ -533,7 +533,7 @@ GameObject:
   - component: {fileID: 302437008}
   - component: {fileID: 302437007}
   m_Layer: 0
-  m_Name: Spot Light
+  m_Name: Cube Spot Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1369,7 +1369,7 @@ GameObject:
   - component: {fileID: 567838143}
   - component: {fileID: 567838142}
   m_Layer: 0
-  m_Name: Camera (2)
+  m_Name: Capsule Camera (2)
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1554,7 +1554,7 @@ GameObject:
   - component: {fileID: 600471288}
   - component: {fileID: 600471287}
   m_Layer: 0
-  m_Name: Spot Light (1)
+  m_Name: Sphere Spot Light (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1635,7 +1635,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 24
+  m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 114.073, y: -26.217987, z: -25.133972}
 --- !u!1001 &744620513
 PrefabInstance:
@@ -1949,7 +1949,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 910910754091528, guid: 049f5bbb0b7ce4cd998f28e79d2f83fb, type: 3}
       propertyPath: m_RootOrder
-      value: 23
+      value: 24
       objectReference: {fileID: 0}
     - target: {fileID: 910910754091528, guid: 049f5bbb0b7ce4cd998f28e79d2f83fb, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1993,7 +1993,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 813160160051275954, guid: 049f5bbb0b7ce4cd998f28e79d2f83fb, type: 3}
       propertyPath: m_Name
-      value: pedestal (2)
+      value: Capsule pedestal (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 049f5bbb0b7ce4cd998f28e79d2f83fb, type: 3}
@@ -2159,7 +2159,7 @@ GameObject:
   - component: {fileID: 1304203096}
   - component: {fileID: 1304203095}
   m_Layer: 0
-  m_Name: Camera (1)
+  m_Name: Sphere Camera (1)
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2541,7 +2541,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 813160160051275954, guid: 049f5bbb0b7ce4cd998f28e79d2f83fb, type: 3}
       propertyPath: m_Name
-      value: pedestal (1)
+      value: Sphere pedestal (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 049f5bbb0b7ce4cd998f28e79d2f83fb, type: 3}
@@ -2904,7 +2904,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 813160160051275954, guid: 049f5bbb0b7ce4cd998f28e79d2f83fb, type: 3}
       propertyPath: m_Name
-      value: pedestal
+      value: Cube pedestal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 049f5bbb0b7ce4cd998f28e79d2f83fb, type: 3}
